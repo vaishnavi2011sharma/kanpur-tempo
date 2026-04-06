@@ -848,6 +848,7 @@ cityName: 'Somnath',
 pageTitle: 'Tempo Traveller in Somnath Temple — Jyotirlinga Darshan Group Tour',
 metaTitle: 'Tempo Traveller in Somnath Temple | Yatra Travel India – Jyotirlinga Darshan Group Tour',
 metaDesc: 'Book tempo traveller in Somnath for Jyotirlinga darshan group tour. Covers Somnath Temple, Bhalka Tirth, Triveni Sangam, Dwarka route. AC vehicles, experienced drivers, transparent pricing. Call 9044019511.',
+metaKeywords: 'tempo traveller in somnath, tempo traveller somnath temple, somnath jyotirlinga darshan group tour, somnath to dwarka tempo traveller, 12 seater tempo traveller somnath, luxury tempo traveller somnath, saurashtra pilgrimage tempo traveller',
 topbarText: 'Somnath Jyotirlinga Darshan Group Tour — Reliable Tempo Traveller Service',
 heroHeading: 'Tempo Traveller in Somnath Temple',
 heroSub: 'Jyotirlinga Darshan · Bhalka Tirth · Triveni Sangam · Somnath to Dwarka · Saurashtra Circuit',
@@ -1603,4 +1604,4 @@ ctaDesc: "Book your tempo traveller for a comfortable, well-organised pilgrimage
 // 
 export const CITY_DATA: Record<string, CityData> = { kanpur, ayodhya, manali, bhubaneswar, raipur, goa, nashik, somnath, coimbatore, ghaziabad, ujjain, mysore, mathura, puri }
 export const ALL_SLUGS = Object.keys(CITY_DATA)
-// 
+//
