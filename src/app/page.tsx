@@ -468,7 +468,6 @@ export default function KanpurTempoPage() {
           ))}
         </div>
 
-<<<<<<< HEAD
         {/* INCLUSIONS / EXCLUSIONS */}
         <h2 className="section-title">Fare Inclusions and Exclusions</h2>
         <div className="ei-split">
@@ -495,37 +494,6 @@ export default function KanpurTempoPage() {
             </ul>
           </div>
         </div>
-=======
-
-          {/* INCLUSIONS / EXCLUSIONS */}
-          <h2 className="section-title">Fare Inclusions and Exclusions</h2>
-
-          <div className="ei-split">
-            <div className="ei-box">
-              <div className="ei-box-header">
-                <span>INCLUDED</span>
-              </div>
-
-              <ul>
-                {INCLUDED.map(item => (
-                  <li key={item}>{item}</li>
-                ))}
-              </ul>
-            </div>
-
-            <div className="ei-box">
-              <div className="ei-box-header">
-                <span>EXCLUDED</span>
-              </div>
-
-              <ul>
-                {EXCLUDED.map(item => (
-                  <li key={item}>{item}</li>
-                ))}
-              </ul>
-            </div>
-          </div>
->>>>>>> fba7258094bd8ad0ffc5701764d46236b1d04483
 
         {/* WEDDING SECTION */}
         <div className="why-tempo-section">
